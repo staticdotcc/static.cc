@@ -1,4 +1,3 @@
--- Protected by Monsy Obfuscator
 local vb_HpxSXz=string.len("")
 local jmSAWJGwXEt_Nm=string.len("")
 local iMtpNZacS=math.floor(0)
